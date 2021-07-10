@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625900765 source:e:\perso\programs\c++#c\average_temperature\main.cpp
+	<bits/stdc++.h>
+	"fenwick.h"
+
+1625900748 e:\perso\programs\c++#c\average_temperature\fenwick.h
+	<bits/stdc++.h>
+
